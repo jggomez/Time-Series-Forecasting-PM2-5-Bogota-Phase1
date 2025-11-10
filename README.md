@@ -2,7 +2,7 @@
 
 ## **Authors:**
 - Alejandra Valle Fernandez
-- Juan Guillermo Gómez
+- [Juan Guillermo Gómez](https://www.linkedin.com/in/jggomezt/)
 
 ## **1. Project Overview**
 
